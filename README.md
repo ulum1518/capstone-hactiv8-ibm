@@ -45,15 +45,24 @@ Banyak berita online di Indonesia ditulis dalam bentuk panjang dan kompleks, seh
 ## 📈 Contoh Hasil (SPMB 2025)
 
 **Klasifikasi berita**
+
 *Kategori Utama*: Politik (karena terkait dengan instansi pemerintah dan proses pemilihan)
+
 *Tokoh Utama*: Kemendikbud, SPMB (Badan Pemilihan Bantuan dan Pendidikan)
+
 *Lokasi Kejadian*: Netral (tidak menyebutkan lokasi spesifik)
+
 *Waktu Kejadian*: 20 Juli 2025 (walaupun tidak jelas apakah ini waktu publikasi berita atau waktu kejadian)
+
 *Sentimen berita*: Negatif (karena berita mengungkap kasus pemalsuan dokumen)
+
 *Isu Khusus*: Korupsi, keberlanjutan proses pemilihan
+
 *Keaslian berita*: Fakta (tidak ada alasan menunjukkan hoaks)
 
+
 **Ringkasan**
+
 Kemendikbud, badan pemerintah yang bertanggung jawab untuk pendidikan, terdakwa melakukan pemalsuan dokumen selama proses pemilihan SPMB 2025. Berita menyebutkan empat (4) temuan yang menunjukkan kasus pemalsuan, salah identitas, dan penipuan. Ini menciptakan sentimen negatif karena menunjukkan potensi korupsi dalam proses pemilihan dan menyebabkan kebimbangan tentang keberlanjutan proses tersebut. Berita juga menyebutkan beberapa poin utama, seperti nama-nama individu yang terlibat dan tindakan yang diambil oleh Kemendikbud setelah penemuan tersebut.
 
 ---
